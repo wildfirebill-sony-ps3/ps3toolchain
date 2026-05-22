@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/github/license/ps3dev/ps3toolchain.svg)](./LICENSE)
+Modified by [wildfirebill](https://github.com/wildfirebill)
 
   What does this do?
  ====================
